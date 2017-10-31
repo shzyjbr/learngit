@@ -1,4 +1,8 @@
 today I will learn how to use git.
 success
 gogo
+<<<<<<< HEAD
 create a new branch "conflict" and test it
+=======
+create a new branch "conflict-dev" & test it
+>>>>>>> conflict-dev
