@@ -1,4 +1,4 @@
 today I will learn how to use git.
 success
 gogo
-create a new branch "conflict-dev"
+create a new branch "conflict"
